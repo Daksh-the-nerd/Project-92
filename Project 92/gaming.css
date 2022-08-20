@@ -1,0 +1,122 @@
+body
+{
+	background-image: url("math.webp");
+}
+
+	.login_div1, .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		
+	}
+    
+	.login_div3
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-top-left-radius: 15px;
+		border-top-right-radius: 15px;
+	}
+
+	.login_div4
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-bottom-left-radius: 15px;
+		border-bottom-right-radius: 15px;
+	}
+
+	.login_div5
+	{
+		background: white;
+		height: 80px;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+	.login_div6
+	{
+		background: white;
+		height: 130px;
+		padding: 10px;
+		
+		float: none;
+		border-radius: 15px;
+		color: navy;
+	}
+	
+
+
+#player_1name , #player_2name
+{
+	display: inline-block;
+	color: white;
+}
+
+#player_1score , #player_2score
+{
+	display: inline-block;
+	color: white;
+}
+#word1 , #word2
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+.heding
+{
+	height: 40px;
+	width: 300px;
+	font-size: larger;
+
+}
+
+.heading
+{
+	height: 40px;
+	width: 100px;
+	font-size: larger;
+}
+
+.buttons
+{
+	height: 60px;
+	padding: 10px;
+	width: 200px;
+	font-size:x-large ;
+}
+
+select
+{
+	height: 40px;
+	width: 200px;
+	font-size: large;
+}
+
+label{
+	font-size: large;
+}
+
+#player_answer, #player_question
+{
+	color: white;
+}
+
+
